@@ -1,0 +1,218 @@
+
+  /**********************************
+  MOBILE RESPONSIVE (STACKED COLUMN)
+  ***********************************/
+  
+  
+  /**********************************
+  PAGE: INDEX
+  ***********************************/
+  
+  /*****************
+   #primary {
+   
+    max-width: 100%;
+    float: center;
+  }
+  *****************/
+
+ /* #gallery li {
+    width: 28.3333%;
+  }
+  
+  #gallery li:nth-child(4n) {
+    clear: left;
+  }
+
+  .studentpic {
+    float: right;
+    margin: 0 5% 80px 5px;
+  }
+} 
+*/
+
+
+ /**********************************
+        TABLET MEDIA QUERIES
+  ***********************************/
+
+
+@media  (min-width: 768px) 
+{
+      
+
+ /**********************************
+            NAVIGATION
+  ***********************************/
+
+
+      nav ul {
+      display: inline-block;
+      margin: 0 auto;
+    }
+  
+    nav ul li {
+      float: left;
+      background-color: transparent;
+    }
+  
+    nav ul li a {
+      display: inline-block;
+      padding: 1em 1.5em;
+    }
+  
+
+ /**********************************
+            INTRODUCTION
+  ***********************************/
+
+
+    .banner {
+      width: 100%;
+    }
+
+    .studentpic {
+      float: right;
+      width: 33%;
+    }
+  
+
+    .intro {
+      float: left;
+      width: 67%;
+      margin-top: 0;
+      padding: 0 1em;
+      font-size: 1.125em;
+      text-align: left;
+    }
+  
+    .examples {
+      float: left;
+      width: 50%;
+      padding: 1em;
+      margin-bottom: 0.5em;
+    }
+  
+    .examples p {
+      /* keep height of this element consistent */
+      height: 3.75em;
+    }
+    .examples img ul li a p {
+      clear: inherit;
+    }
+
+    .outro{
+      font-size: 1.266em;
+      max-width: 75%;
+      margin: 0 auto;
+    }
+  
+    .bottom p a {
+      display: none;
+    }
+  
+    footer {
+      padding-bottom: 2em;
+      width: 100%;
+    }
+  
+    .foot-nav {
+      display: block;
+      text-align: right;
+    }
+  
+    .foot-nav ul li a {
+      color: #9b9c9c;
+    }
+
+    /* 
+  nav {
+    background: none;
+    float: right;
+    font-size: 1.125em;
+    margin-right: 5%;
+    text-align: right;
+    width: 45%;
+  }
+
+  #logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 0.825em;
+    margin-bottom: 20px;
+  }
+  
+  header {
+    border-bottom: 5px solid #ffffff;
+    margin-bottom: 60px;
+  }
+
+  
+}
+
+ */
+
+ /****************** 
+ DESKTOP STYLES 
+*******************/
+@media (min-width: 1024px) {
+  .header {
+      padding-bottom: 20em;
+
+  }
+  
+  .contained {
+    margin-top: 2.5em;
+    margin-bottom: 5em;
+    min-height: 3.125rem;
+  }
+
+  .nav ul li a {
+    float: right;
+
+  }
+
+  .logo {
+    float: left;
+    padding: 1rem 0;
+  }
+
+  .primary{
+    float: right;
+    margin-right: 24px;
+  }
+
+  .intro {
+    font-size: 1.424em;
+    width: 60%;
+    padding-right: 6rem;
+    padding-left: 0;
+  }
+
+  .studentpic {
+    width: 40%;
+    padding-right: 24px;
+  }
+
+  .examples {
+    width: 33%;
+    padding: 0.5em;
+  }
+
+  .outro {
+    width: 50%;
+  }
+
+  footer {
+    padding-bottom: 0;
+  }
+}}
