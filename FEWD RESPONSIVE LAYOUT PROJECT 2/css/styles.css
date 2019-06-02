@@ -98,11 +98,6 @@ header p {
 }*/
 
 
-
-
-
-
-
 /**********************************
 NAVIGATION
 ***********************************/
@@ -127,8 +122,6 @@ nav ul li a {
   text-decoration: none;
   
 }
-
-
 
 main {
   background-color: #FAFAFA;
@@ -188,7 +181,7 @@ margin-bottom: 1.5em;
 margin-top: 0.5em;
 margin-bottom: 2.3em;
 padding: 0 2em;
-} */
+}
 
 
 #gallery {
@@ -209,7 +202,7 @@ margin-bottom: 1.5em;
 margin-top: 0.5em;
 margin-bottom: 2.3em;
 padding: 0 2em;
-} */
+}
 
 
 
@@ -217,8 +210,6 @@ padding: 0 2em;
 /**********************************
 FOOTER
 ***********************************/
-
-
 
 #contact h2 {
   padding-top: 1.5em;
@@ -232,8 +223,7 @@ address {
 
 address span {
   font-weight: 700;
-  padding-left: 0.5em;
-}
+  padding-left: 0.5em; }
 
 address span a {
   text-decoration: none;
