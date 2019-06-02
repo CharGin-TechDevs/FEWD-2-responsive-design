@@ -191,11 +191,13 @@ padding: 0 2em;
 } */
 
 
-/*
+/************
 
 I DO NOT GET WHY THIS DID NOT WORK.................... I spen days litterally days.....
 to try and see why this cant work and i tried everything...... NOTE TO SELF: I NEED
 TO KNOW WHY THIS DID NOT WORK....WHY COULD THEY NOT BE IN A LIST!!!!!!!!
+***********/
+
 
 #gallery {
   list-style: none;
