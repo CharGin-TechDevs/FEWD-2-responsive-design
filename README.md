@@ -8,6 +8,7 @@ Responsive layout can be reused for making multiple pages to practice and stay i
 Will be adding a second version based on Nintendo and pixelated styles. NES.CSS will need to be linked
 
 Thanks To everyone at NES-style CSS Framework | ファミコン風CSSフレームワーク https://nostalgic-css.github.io/NES.css/
+
 # Update March 2020:
 #### Adjust to satisfy Digitalcrafts pre-work "About Me".
 Use Origingal project as template. Add in NES Framework for a change of pace. 
@@ -21,7 +22,7 @@ Use Origingal project as template. Add in NES Framework for a change of pace.
   <a href=".github/README-jp.md">日本語</a> / <a href=".github/README-zh-CN.md">简体中文</a> / <a href=".github/README-es.md">Español</a> / <a href=".github/README-pt-BR.md">Português</a> / <a href=".github/README-ru.md">Русский</a>
 </div>
 
-NES.css is a **NES-style(8bit-like)** CSS Framework.
+NES.css is a **NES-style(8bit-like)** CSS Framework. FIND REPO HERE https://github.com/nostalgic-css/NES.css
 
 [![Gitter][gitter-badge]][gitter] [![Commitizen friendly][commitizen-badge]][commitizen]
 
